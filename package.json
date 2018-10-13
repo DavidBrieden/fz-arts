@@ -1,0 +1,19 @@
+{
+  "name": "fz-arts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node source/server/index.js"
+  },
+  "author": "David Brieden & Freddy Zimmermann",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
